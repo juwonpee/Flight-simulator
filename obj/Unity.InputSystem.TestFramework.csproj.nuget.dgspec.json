@@ -1,0 +1,345 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.TestFramework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.csproj",
+        "projectName": "Unity.InputSystem",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.TestFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.TestFramework.csproj",
+        "projectName": "Unity.InputSystem.TestFramework",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.TestFramework.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\Unity.InputSystem.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEditor.TestRunner.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj"
+              },
+              "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj": {
+                "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\juwon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juwon\\Desktop\\Flight Simulator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\juwon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

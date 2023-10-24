@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba075d4fe9c33bf46af6fe8aaffd3665, type: 3}
+  m_Name: Wing Outer
+  m_EditorClassIdentifier: 
+  liftSlope: 10
+  skinFriction: 0.1
+  zeroLiftAoA: -4
+  stallAngleHigh: 35
+  stallAngleLow: -15
+  flapFraction: 0
+  chord: 1.93
+  span: 1.6
+  autoAspectRatio: 1
+  aspectRatio: 0.82901555

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 42f08a7ee0c0c2149b0df1bb1cf66c21
+timeCreated: 1526785510
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cockpit
+    100002: Dome Lining
+    100004: //RootNode
+    100006: Frame
+    100008: Front Suspension
+    100010: Front Wheel
+    100012: Front Wheel Hatch
+    100014: Glass
+    100016: Left Elevator
+    100018: Left Flap
+    100020: Left Suspension
+    100022: Left Wheel
+    100024: Left Wheel Hatch
+    100026: Right Elevator
+    100028: Right Flap
+    100030: Right Suspension
+    100032: Right Wheel
+    100034: Right Wheel Hatch
+    100036: Rudder
+    100038: Weapon Mounts
+    400000: Cockpit
+    400002: Dome Lining
+    400004: //RootNode
+    400006: Frame
+    400008: Front Suspension
+    400010: Front Wheel
+    400012: Front Wheel Hatch
+    400014: Glass
+    400016: Left Elevator
+    400018: Left Flap
+    400020: Left Suspension
+    400022: Left Wheel
+    400024: Left Wheel Hatch
+    400026: Right Elevator
+    400028: Right Flap
+    400030: Right Suspension
+    400032: Right Wheel
+    400034: Right Wheel Hatch
+    400036: Rudder
+    400038: Weapon Mounts
+    2300000: Cockpit
+    2300002: Dome Lining
+    2300004: Frame
+    2300006: Front Suspension
+    2300008: Front Wheel
+    2300010: Front Wheel Hatch
+    2300012: Glass
+    2300014: Left Elevator
+    2300016: Left Flap
+    2300018: Left Suspension
+    2300020: Left Wheel
+    2300022: Left Wheel Hatch
+    2300024: Right Elevator
+    2300026: Right Flap
+    2300028: Right Suspension
+    2300030: Right Wheel
+    2300032: Right Wheel Hatch
+    2300034: Rudder
+    2300036: Weapon Mounts
+    3300000: Cockpit
+    3300002: Dome Lining
+    3300004: Frame
+    3300006: Front Suspension
+    3300008: Front Wheel
+    3300010: Front Wheel Hatch
+    3300012: Glass
+    3300014: Left Elevator
+    3300016: Left Flap
+    3300018: Left Suspension
+    3300020: Left Wheel
+    3300022: Left Wheel Hatch
+    3300024: Right Elevator
+    3300026: Right Flap
+    3300028: Right Suspension
+    3300030: Right Wheel
+    3300032: Right Wheel Hatch
+    3300034: Rudder
+    3300036: Weapon Mounts
+    4300000: Rudder
+    4300002: Left Elevator
+    4300004: Right Elevator
+    4300006: Right Flap
+    4300008: Left Flap
+    4300010: Right Wheel Hatch
+    4300012: Dome Lining
+    4300014: Front Suspension
+    4300016: Front Wheel
+    4300018: Left Wheel
+    4300020: Left Suspension
+    4300022: Front Wheel Hatch
+    4300024: Glass
+    4300026: Cockpit
+    4300028: Weapon Mounts
+    4300030: Left Wheel Hatch
+    4300032: Right Suspension
+    4300034: Right Wheel
+    4300036: Frame
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 20d9b83fa5cf622438a1b33d26301768, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

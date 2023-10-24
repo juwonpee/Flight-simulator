@@ -1,0 +1,282 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698133095497470, "dur":20260, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095517748, "dur":216, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095518001, "dur":253, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095518272, "dur":2847, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095521120, "dur":201136, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095722257, "dur":248, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095722624, "dur":1411, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698133095518858, "dur":2280, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095521148, "dur":597, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095521745, "dur":342, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095522087, "dur":3160, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095525261, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1698133095525248, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1698133095525317, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095585879, "dur":1667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1698133095587593, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095587667, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698133095589879, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698133095589971, "dur":71542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698133095661555, "dur":60703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095518913, "dur":2252, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095521170, "dur":590, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095521760, "dur":3484, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095525247, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1698133095525305, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095587017, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1698133095588183, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095588287, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698133095590425, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095590589, "dur":3459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1698133095594217, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1698133095596197, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1698133095597785, "dur":846, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698133095598662, "dur":9875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1698133095608621, "dur":3576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1698133095612236, "dur":110017, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095518954, "dur":2219, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095521176, "dur":599, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095521775, "dur":3467, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095525255, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698133095525246, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698133095525306, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095527316, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698133095529087, "dur":1102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698133095530551, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698133095531602, "dur":1005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698133095532939, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698133095534485, "dur":1012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1698133095535665, "dur":1173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698133095537195, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095539100, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1698133095539745, "dur":3945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1698133095543800, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095546918, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095548471, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095549831, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095551722, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095553131, "dur":1180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095554447, "dur":1159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095555659, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095557560, "dur":1538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095559145, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095560508, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095560666, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095561981, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095563313, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095564876, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095566889, "dur":1578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095568543, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095569662, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095571307, "dur":1372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095572765, "dur":1165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095574006, "dur":1279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095575363, "dur":1475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095576927, "dur":1113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095578083, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095578152, "dur":2157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095580423, "dur":1794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095582308, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095583911, "dur":1134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095585091, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095585230, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095587370, "dur":19939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698133095607376, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698133095607602, "dur":5593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698133095613244, "dur":109029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095519086, "dur":2119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095521206, "dur":596, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095521802, "dur":3436, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095525314, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095535537, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1698133095536749, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698133095536807, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095537179, "dur":1845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698133095539170, "dur":183, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095539168, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095539355, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095539773, "dur":4825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095544666, "dur":382, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095545091, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095547075, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095548551, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095550016, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095550082, "dur":1660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095551776, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095551775, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095552047, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095554170, "dur":1329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095555555, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095557542, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095559614, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095559707, "dur":1763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095561510, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095561612, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095563514, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095563639, "dur":1719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095565407, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095565610, "dur":1636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095567351, "dur":2165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095569596, "dur":1269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095570964, "dur":2192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095573195, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095573336, "dur":1230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095574612, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095574753, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095576381, "dur":1366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095577832, "dur":2455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095580415, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095582588, "dur":1604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095584229, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095584345, "dur":3209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095587595, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698133095587673, "dur":1920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095589701, "dur":22437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698133095612202, "dur":110047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095518904, "dur":2249, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095521157, "dur":595, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095521752, "dur":3494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095525247, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1698133095525303, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095535655, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1698133095537279, "dur":6512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095543894, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095545813, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095545897, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095547322, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095547505, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095548936, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095549054, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095551640, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095553177, "dur":1819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095555071, "dur":2091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095557220, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095558637, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095560144, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095561543, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095562907, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095562982, "dur":1508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095564590, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095564821, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095566982, "dur":1877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095568944, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095570399, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095571898, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095572060, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095575837, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095576139, "dur":1184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095577428, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095578608, "dur":736, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095579369, "dur":1108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095580548, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095582541, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095584157, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698133095584307, "dur":2686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095587109, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095589201, "dur":11256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698133095600645, "dur":14864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1698133095615543, "dur":106717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698133095518850, "dur":2279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698133095521134, "dur":4102, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698133095536441, "dur":752, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":6, "ts":1698133095537198, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1698133095537282, "dur":10052, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1698133095547575, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095547722, "dur":219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095547943, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095548025, "dur":399, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095548425, "dur":531, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095548957, "dur":255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095549213, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095549290, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095549634, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095549793, "dur":1010, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095550806, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095550912, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095551003, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095551078, "dur":379, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095551459, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095551544, "dur":308, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095551854, "dur":123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698133095552027, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player8719d601-inputdata.json" }}
+,{ "pid":12345, "tid":6, "ts":1698133095537197, "dur":15047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1698133095552541, "dur":63, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698133095552904, "dur":165373, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1698133095721080, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1698133095721079, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1698133095721195, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1698133095518999, "dur":2182, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095521185, "dur":621, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095521806, "dur":3446, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095525303, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095586631, "dur":1575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1698133095588250, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095588350, "dur":1898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698133095590331, "dur":216, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698133095590591, "dur":7047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1698133095597735, "dur":9021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698133095606841, "dur":6590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1698133095613494, "dur":108757, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095519034, "dur":2160, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095521199, "dur":562, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095521761, "dur":3479, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095525262, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1698133095525247, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1698133095525315, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095525931, "dur":2914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1698133095528952, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095529166, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1698133095530516, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1698133095531594, "dur":959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1698133095532778, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1698133095534478, "dur":1156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1698133095535769, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1698133095537351, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator.exe" }}
+,{ "pid":12345, "tid":8, "ts":1698133095539250, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095539725, "dur":4201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095543961, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095544024, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095545814, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095545898, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095547535, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095547603, "dur":1359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095549009, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095549122, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095550289, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095551771, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\juwon\\Desktop\\Flight-simulator\\Library\\PackageCache\\com.unity.visualscripting@1.9.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095551769, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Flight Simulator_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095551975, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095554330, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095555983, "dur":1553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095557590, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095559220, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095559296, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095561143, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095561212, "dur":1036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095562340, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095562434, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095564023, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095564121, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095565628, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095567525, "dur":2211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095569819, "dur":1606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095571467, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095571542, "dur":1153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095572781, "dur":2248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095575123, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095575207, "dur":2596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095577891, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095582096, "dur":99, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095580427, "dur":1786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095582318, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095584242, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095584319, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095586001, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095586116, "dur":2205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095588366, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698133095588707, "dur":17534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698133095606496, "dur":8919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Flight Simulator_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1698133095615471, "dur":106817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698133095726617, "dur":968, "ph":"X", "name": "ProfilerWriteOutput" }
+,

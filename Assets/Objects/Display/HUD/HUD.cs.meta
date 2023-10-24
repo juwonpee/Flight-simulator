@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7a1c09f1545b3654ba24d73671f0073f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boresight: {fileID: 7765977140208612963, guid: b9ff66b181155104483ef2e417f49a71, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

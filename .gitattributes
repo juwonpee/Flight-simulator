@@ -1,0 +1,10 @@
+Assets/Objects/Planes/F16/Models/F-16 filter=lfs diff=lfs merge=lfs -text
+Block filter=lfs diff=lfs merge=lfs -text
+70 filter=lfs diff=lfs merge=lfs -text
+Packed.blend1 filter=lfs diff=lfs merge=lfs -text
+Build/Flight filter=lfs diff=lfs merge=lfs -text
+Simulator_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Assets/asdObjects/Planes/F16/Models/F-16 filter=lfs diff=lfs merge=lfs -text
+Assets/Objects/Planes/F16/Models/F-16 filter=lfs diff=lfs merge=lfs -text
+Build/Flight[[:space:]]Simulator_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text

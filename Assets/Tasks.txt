@@ -1,0 +1,17 @@
+CURRENT:
+	RADAR
+	Radar UI
+TODO:
+	Fly by wire				// Kinda done
+							// Need to set up pid control
+	AI
+	menu
+	multiple aircraft
+	multiplayer
+	map
+	missile
+
+FIX:
+	Thrust coeffecient not scaling properly
+	Velocity vector and boresight also visible on the rear
+	LOS check on player radar missile not working
